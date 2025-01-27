@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **Cloud based projects**
 
-- 👨‍💻 All of my projects are available at [https://aditya-upaganlawar.vercel.app/](https://aditya-upaganlawar.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://aditya-portfolio-website-one.vercel.app/](https://aditya-portfolio-website-one.vercel.app/)
 
 - 💬 Ask me about **Frontend development**
 
 - 📫 How to reach me **adityaupaganlawar@gmail.com**
 
-- 📄 Know about my experiences [https://aditya-upaganlawar.vercel.app/](https://aditya-upaganlawar.vercel.app/)
+- 📄 Know about my experiences [https://aditya-portfolio-website-one.vercel.app/](https://aditya-portfolio-website-one.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
