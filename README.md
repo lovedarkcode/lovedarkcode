@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lovedarkcode" alt="lovedarkcode" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce Project**
+- 🔭 I’m currently working on **AI CarMarketPlace**
 
 - 🌱 I’m currently learning **Frontend and Backend**
 
